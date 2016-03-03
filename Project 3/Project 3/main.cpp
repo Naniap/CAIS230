@@ -1,3 +1,9 @@
+/*
+main.cpp					Michael Coache						CAIS 230
+This program takes the input of 7 student's grades for 10 quizes, 7 projects, 3 exams and 1 final exam grade.
+The program then calculates a letter grade, average, and the highest and lowest student's grade.
+This program uses two classes, the Student and Course class, where an array of students is stored in a course.
+*/
 #include <iostream>
 #include <string>
 #include <iomanip>
@@ -7,6 +13,7 @@ using namespace std;
 
 double computeAvg(int count, int array[]);
 string concatenate(string start, int count, int array[]);
+void displayInfo();
 const int NUM_STUDENTS = 7;
 
 class Student
@@ -28,7 +35,6 @@ public: Student();
 		void determine_student_grade();
 		void display_student_name_gpa_grade();
 		double student_average();
-		void displayInfo();
 };
 class Course
 {
@@ -48,6 +54,7 @@ public:
 };
 
 int main() {
+	displayInfo();
 	fstream outs;
 	outs.open("students.txt", ios::out);
 	outs.close();
@@ -94,18 +101,6 @@ void Student::get_student_scores() {
 	cout << "Enter final exam: ";
 	cin >> final;
 	cin.ignore();
-}
-void Student::displayInfo() {
-	cout << fixed << setprecision(1);
-	string projectGrades = concatenate("Projects: ", 7, project);
-	string examGrades = concatenate("Exams: ", 3, exam);
-	string quizGrades = concatenate("Quizzes: ", 10, quiz);
-	cout << projectGrades << endl;
-	cout << examGrades << endl;
-	cout << quizGrades << endl;
-	cout << "Final: " << final << endl;
-	cout << "Average: " << average << endl;
-	cout << "Letter grade: " << grade << endl;
 }
 void Student::compute_student_stats() {
 	examAvg = computeAvg(3, exam);
@@ -224,10 +219,6 @@ double computeAvg(int count, int array[]) {
 	}
 	return sum / count;
 }
-string concatenate(string start, int count, int array[]) {
-	for (int i = 0; i < count; i++) {
-		start += to_string(array[i]);
-		start += i == (count - 1) ? "" : ", ";
-	}
-	return start;
+void displayInfo() {
+	cout << "This program will ask for a student's name, then 7 projects, 3 exams, 10 quizzes and 1 final exam grade. This will repeat 7 times for 7 different students.\n\n";
 }

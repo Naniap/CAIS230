@@ -1,7 +1,11 @@
-Highest grade: Michael Coache Average: 93.75 Grade: A%
-Lowest grade: Harry Potter Average: 72.12 Grade: C-%
+Highest grade: Greta Garber Average: 90.11% Grade: A-
+Lowest grade: Harry Potter Average: 74.03% Grade: C
 
 Grade evaluation summary: 
-
-Michael Coache Average: 93.75 Grade: A%
-Harry Potter Average: 72.12 Grade: C-%
+James Brown Average: 80.24% Grade: B-
+Greta Garber Average: 90.11% Grade: A-
+Sarah Hall Average: 80.59% Grade: B-
+John Long Average: 78.04% Grade: C+
+Angela Manelli Average: 85.14% Grade: B
+Harry Potter Average: 74.03% Grade: C
+Phineas Gentry Average: 78.20% Grade: C+

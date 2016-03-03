@@ -141,8 +141,8 @@ double Student::student_average() {
 void Student::display_student_name_gpa_grade() {
 	fstream outs;
 	outs.open("students.txt", ios::out | ios::app);
-	outs << fixed << setprecision(2);
-	cout << fixed << setprecision(2);
+	outs << fixed << setprecision(1);
+	cout << fixed << setprecision(1);
 	outs << name << " Average: " << average << "%" << " Grade: " << grade << endl;
 	cout << name << " Average: " << average << "%" << " Grade: " << grade << endl;
 	outs.close();

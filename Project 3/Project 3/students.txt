@@ -1,11 +1,11 @@
-Highest grade: Greta Garber Average: 90.11% Grade: A-
-Lowest grade: Harry Potter Average: 74.03% Grade: C
+Highest grade: Greta Garber Average: 90.1% Grade: A-
+Lowest grade: Harry Potter Average: 74.0% Grade: C
 
 Grade evaluation summary: 
-James Brown Average: 80.24% Grade: B-
-Greta Garber Average: 90.11% Grade: A-
-Sarah Hall Average: 80.59% Grade: B-
-John Long Average: 78.04% Grade: C+
-Angela Manelli Average: 85.14% Grade: B
-Harry Potter Average: 74.03% Grade: C
-Phineas Gentry Average: 78.20% Grade: C+
+James Brown Average: 80.2% Grade: B-
+Greta Garber Average: 90.1% Grade: A-
+Sarah Hall Average: 80.6% Grade: B-
+John Long Average: 78.0% Grade: C+
+Angela Manelli Average: 85.1% Grade: B
+Harry Potter Average: 74.0% Grade: C
+Phineas Gentry Average: 77.8% Grade: C+

@@ -1,0 +1,9 @@
+Name of Candidate             Votes Received        % of Total Votes
+-----------------             --------------       -----------------
+David Johnson                       5000                  25.9%
+Joan Miller                         4000                  20.7%
+Henrietta Duffy                     6000                  31.1%
+Sarah Robinson                      2500                  13.0%
+William Ashtony                     1800                   9.3%
+Total Votes                19300
+Winner of Election         Henrietta Duffy

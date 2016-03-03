@@ -1,0 +1,32 @@
+Here are the quarterly sales for division East:
+       Quarter 1 Sales $12000.00
+       Quarter 1 Sales $13000.00
+       Quarter 1 Sales $15000.00
+       Quarter 1 Sales $11000.00
+
+Total sales earned by the East division are $51000.00
+
+Here are the quarterly sales for division West:
+       Quarter 2 Sales $24000.00
+       Quarter 2 Sales $18000.00
+       Quarter 2 Sales $21000.00
+       Quarter 2 Sales $16000.00
+
+Total sales earned by the West division are $79000.00
+
+Here are the quarterly sales for division North:
+       Quarter 3 Sales $18000.00
+       Quarter 3 Sales $21000.00
+       Quarter 3 Sales $32000.00
+       Quarter 3 Sales $25000.00
+
+Total sales earned by the North division are $96000.00
+
+Here are the quarterly sales for division South:
+       Quarter 4 Sales $17000.00
+       Quarter 4 Sales $22000.00
+       Quarter 4 Sales $27000.00
+       Quarter 4 Sales $31000.00
+
+Total sales earned by the South division are $97000.00
+

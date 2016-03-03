@@ -1,0 +1,7 @@
+Highest grade: Michael Coache Average: 93.75 Grade: A%
+Lowest grade: Harry Potter Average: 72.12 Grade: C-%
+
+Grade evaluation summary: 
+
+Michael Coache Average: 93.75 Grade: A%
+Harry Potter Average: 72.12 Grade: C-%

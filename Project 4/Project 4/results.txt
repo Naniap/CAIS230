@@ -1,27 +1,27 @@
                   Unsorted list
 ---------------------------------------------------
-                  James Williamson	85.00%
-                  Sarah Hogan		65.00%
-                  Gerald Harrington	90.00%
-                  Henrietta Johnston	78.00%
-                  William Thompson	82.00%
-                  Samuel Adams		74.00%
-                  Samantha Jacobson	93.00%
-                  Phineas Butler	71.00%
-                  Thelma Lewis		87.00%
-                  Virginia Wolf		63.00%
+James Williamson          85.00%
+Sarah Hogan              65.00%
+Gerald Harrington          90.00%
+Henrietta Johnston          78.00%
+William Thompson          82.00%
+Samuel Adams             74.00%
+Samantha Jacobson          93.00%
+Phineas Butler           71.00%
+Thelma Lewis             87.00%
+Virginia Wolf            63.00%
 
-                     Sorted List
+                  Sorted List
 ---------------------------------------------------
-                  Virginia Wolf		63.00%
-                  Sarah Hogan		65.00%
-                  Phineas Butler	71.00%
-                  Samuel Adams		74.00%
-                  Henrietta Johnston	78.00%
-                  William Thompson	82.00%
-                  James Williamson	85.00%
-                  Thelma Lewis		87.00%
-                  Gerald Harrington	90.00%
-                  Samantha Jacobson	93.00%
+Virginia Wolf            63.00%
+Sarah Hogan              65.00%
+Phineas Butler           71.00%
+Samuel Adams             74.00%
+Henrietta Johnston          78.00%
+William Thompson          82.00%
+James Williamson          85.00%
+Thelma Lewis             87.00%
+Gerald Harrington          90.00%
+Samantha Jacobson          93.00%
 
 The class average is: 78.80%

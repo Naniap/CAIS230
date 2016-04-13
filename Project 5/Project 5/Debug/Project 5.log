@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\mikey\documents\visual studio 2015\projects\project 5\project 5\main.cpp(235): warning C4101: 'r': unreferenced local variable
+  Project 5.vcxproj -> C:\Users\Mikey\documents\visual studio 2015\Projects\Project 5\Debug\Project 5.exe
+  Project 5.vcxproj -> C:\Users\Mikey\documents\visual studio 2015\Projects\Project 5\Debug\Project 5.pdb (Partial PDB)

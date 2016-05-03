@@ -278,7 +278,7 @@ void CheckList(Nodeptr EastList, Nodeptr WestList, char farmer_bank, bool& game_
 		cout << "\nSorry, you lost!\n";
 	}
 	if (Empty(EastList)) {
-		cout << "\nCongratulations! You won!";
+		cout << "\nCongratulations! You won!\n";
 		game_over = true;
 	}
 }

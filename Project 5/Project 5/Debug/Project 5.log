@@ -1,4 +1,14 @@
-﻿  main.cpp
-c:\users\mikey\documents\visual studio 2015\projects\project 5\project 5\main.cpp(235): warning C4101: 'r': unreferenced local variable
-  Project 5.vcxproj -> C:\Users\Mikey\documents\visual studio 2015\Projects\Project 5\Debug\Project 5.exe
-  Project 5.vcxproj -> C:\Users\Mikey\documents\visual studio 2015\Projects\Project 5\Debug\Project 5.pdb (Partial PDB)
+﻿Build started 4/14/2016 3:44:01 PM.
+     1>Project "C:\Users\mikep\Documents\Visual Studio 2015\Projects\Project 5\Project 5\Project 5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\mikep\documents\visual studio 2015\projects\project 5\project 5\main.cpp(213): warning C4101: 'r': unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mikep\Documents\Visual Studio 2015\Projects\Project 5\Debug\Project 5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\mikep\Documents\Visual Studio 2015\Projects\Project 5\Debug\Project 5.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mikep\Documents\Visual Studio 2015\Projects\Project 5\Debug\Project 5.lib" /MACHINE:X86 Debug\main.obj
+         Project 5.vcxproj -> C:\Users\mikep\Documents\Visual Studio 2015\Projects\Project 5\Debug\Project 5.exe
+     1>Done Building Project "C:\Users\mikep\Documents\Visual Studio 2015\Projects\Project 5\Project 5\Project 5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.31

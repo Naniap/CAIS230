@@ -1,0 +1,25 @@
+Decimal number is:                   19
+Binary conversion:                   10011
+Octal conversion:                    23
+Hex conversion:                      13
+
+Decimal number is:                   63
+Binary conversion:                   111111
+Octal conversion:                    77
+Hex conversion:                      3f
+
+Decimal number is:                  125
+Binary conversion:                   1111101
+Octal conversion:                    175
+Hex conversion:                      7d
+
+Decimal number is:                  362
+Binary conversion:                   101101010
+Octal conversion:                    552
+Hex conversion:                      16a
+
+Decimal number is:                 1789
+Binary conversion:                   11011111101
+Octal conversion:                    3375
+Hex conversion:                      6fd
+
